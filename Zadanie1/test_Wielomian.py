@@ -11,8 +11,8 @@ def test_stopien_wielomianu():
     assert str(Wielomian([1,2,3]).__iadd__(Wielomian([3,4,5,6]))) == "W(x) = 6x^3 + 8x^2 + 6x^1 + 4"
     assert str(Wielomian([1,2,3]) - Wielomian([3,4,5,6])) == "W(x) = -6x^3 + -2x^2 + -2x^1 + -2"
     assert str(Wielomian([1,2,3]).__isub__(Wielomian([3,4,5,6]))) == "W(x) = -6x^3 + -2x^2 + -2x^1 + -2"
-    assert str(Wielomian([1,2,3]) * Wielomian([3,4,5,6])) == "W(x) = 15x^2 + 8x^1 + 3"
-    assert str(Wielomian([1,2,3]).__imul__(Wielomian([3,4,5,6]))) == "W(x) = 15x^2 + 8x^1 + 3"
+    assert str(Wielomian([1,2,3]) * Wielomian([3,4,5,6])) == "W(x) = 18x^5 + 27x^4 + 28x^3 + 22x^2 + 10x^1 + 3"
+    assert str(Wielomian([1,2,3]).__imul__(Wielomian([3,4,5,6]))) == "W(x) = 18x^5 + 27x^4 + 28x^3 + 22x^2 + 10x^1 + 3"
     with pytest.raises(TypeError):
         Wielomian("[1,2,3]")
     with pytest.raises(TypeError):

@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f5249ba-f425-4d77-9f9f-782ed047f517" name="Changes" comment="testy zadanie 1">
-      <change afterPath="$PROJECT_DIR$/Zadanie2/DNASequence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadanie2/ProteinSequence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadanie2/RNASequence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadanie2/Sequence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadanie2/SequencesFunkcjonalnosc.py" afterDir="false" />
+    <list default="true" id="9f5249ba-f425-4d77-9f9f-782ed047f517" name="Changes" comment="klasy zadanie 2 gotowe">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadanie1/Wielomian.py" beforeDir="false" afterPath="$PROJECT_DIR$/Zadanie1/Wielomian.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadanie1/test_Wielomian.py" beforeDir="false" afterPath="$PROJECT_DIR$/Zadanie1/test_Wielomian.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,19 +47,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python tests.pytest for test_Wielomian.test_stopien_wielomianu.executor": "Run",
-    "Python tests.pytest in test_Wielomian.py.executor": "Run",
-    "Python.SequencesFunkcjonalnosc.executor": "Run",
-    "Python.Wielomian.executor": "Run",
-    "Python.WielomianFunkcjonalnosc.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.pytest for test_Wielomian.test_stopien_wielomianu.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in test_Wielomian.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SequencesFunkcjonalnosc.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Wielomian.executor&quot;: &quot;Run&quot;,
+    &quot;Python.WielomianFunkcjonalnosc.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="pytest for test_Wielomian.test_stopien_wielomianu" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="lista2" />
@@ -127,7 +124,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743948615592</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="klasy zadanie 2 gotowe">
+      <option name="closed" value="true" />
+      <created>1743952098849</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1743952098849</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -145,6 +150,7 @@
     <MESSAGE value="dzialajaca klasa" />
     <MESSAGE value="start pisania testow" />
     <MESSAGE value="testy zadanie 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="testy zadanie 1" />
+    <MESSAGE value="klasy zadanie 2 gotowe" />
+    <option name="LAST_COMMIT_MESSAGE" value="klasy zadanie 2 gotowe" />
   </component>
 </project>

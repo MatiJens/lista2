@@ -4,16 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f5249ba-f425-4d77-9f9f-782ed047f517" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/lista2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadanie1/Wielomian.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadanie1/WielomianFunkcjonalnosc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadanie1/WielomianTest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadanie1/__init__.py" afterDir="false" />
+    <list default="true" id="9f5249ba-f425-4d77-9f9f-782ed047f517" name="Changes" comment="dzialajaca klasa">
+      <change afterPath="$PROJECT_DIR$/Zadanie2/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/lista2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/lista2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadanie1/WielomianFunkcjonalnosc.py" beforeDir="false" afterPath="$PROJECT_DIR$/Zadanie1/WielomianFunkcjonalnosc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadanie1/test_Wielomian.py" beforeDir="false" afterPath="$PROJECT_DIR$/Zadanie1/test_Wielomian.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,9 +26,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;MatiJens&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/MatiJens/lista2.git&quot;,
+    &quot;accountId&quot;: &quot;248ef3ad-99f4-4805-9fcc-5a345df1b13f&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2vLjpmlRFvdG6MWD4mvPEnMgmPC" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -43,12 +51,40 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.pytest for test_Wielomian.test_stopien_wielomianu.executor": "Run",
+    "Python tests.pytest in test_Wielomian.py.executor": "Run",
     "Python.Wielomian.executor": "Run",
     "Python.WielomianFunkcjonalnosc.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="pytest for test_Wielomian.test_stopien_wielomianu" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="lista2" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Zadanie1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Wielomian.test_stopien_wielomianu&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest for test_Wielomian.test_stopien_wielomianu" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -65,6 +101,30 @@
       <option name="presentableId" value="Default" />
       <updated>1743931433912</updated>
     </task>
+    <task id="LOCAL-00001" summary="dzialajaca klasa">
+      <option name="closed" value="true" />
+      <created>1743935688274</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1743935688274</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="dzialajaca klasa" />
+    <option name="LAST_COMMIT_MESSAGE" value="dzialajaca klasa" />
   </component>
 </project>

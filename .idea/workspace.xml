@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f5249ba-f425-4d77-9f9f-782ed047f517" name="Changes" comment="start pisania testow">
+    <list default="true" id="9f5249ba-f425-4d77-9f9f-782ed047f517" name="Changes" comment="testy zadanie 1">
+      <change afterPath="$PROJECT_DIR$/Zadanie2/DNASequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadanie2/ProteinSequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadanie2/RNASequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadanie2/Sequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadanie2/SequencesFunkcjonalnosc.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadanie1/test_Wielomian.py" beforeDir="false" afterPath="$PROJECT_DIR$/Zadanie1/test_Wielomian.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +54,7 @@
   "keyToString": {
     "Python tests.pytest for test_Wielomian.test_stopien_wielomianu.executor": "Run",
     "Python tests.pytest in test_Wielomian.py.executor": "Run",
+    "Python.SequencesFunkcjonalnosc.executor": "Run",
     "Python.Wielomian.executor": "Run",
     "Python.WielomianFunkcjonalnosc.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -114,7 +119,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743943847091</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="testy zadanie 1">
+      <option name="closed" value="true" />
+      <created>1743948615592</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1743948615592</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -131,6 +144,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="dzialajaca klasa" />
     <MESSAGE value="start pisania testow" />
-    <option name="LAST_COMMIT_MESSAGE" value="start pisania testow" />
+    <MESSAGE value="testy zadanie 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="testy zadanie 1" />
   </component>
 </project>
